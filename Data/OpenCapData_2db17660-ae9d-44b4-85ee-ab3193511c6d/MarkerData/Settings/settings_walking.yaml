@@ -1,0 +1,7 @@
+augmenter_model: v0.3
+bbox_thr: 0.8
+filterFrequency: default
+imageUpsampleFactor: 4
+openSimModel: LaiUhlrich2022
+poseDetector: mmpose
+scalingSetup: upright_standing_pose
